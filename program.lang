@@ -1,0 +1,4 @@
+set a to 7
+set b to 3
+say a + b
+say "Hello Ujwal"
